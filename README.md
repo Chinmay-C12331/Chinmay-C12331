@@ -178,16 +178,6 @@ https://updated-protfolio-tan.vercel.app
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/Chinmay-C12331/Chinmay-C12331/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 💡 Philosophy
 
 > *"I believe the best way to learn AI is by building real-world applications that solve real problems."*
