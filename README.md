@@ -1,215 +1,139 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+AI+Developer;Building+Real-World+AI+Projects;Full-Stack+Developer;Always+Learning+Always+Building" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Chinmay J C</h1>
+<a href="https://github.com/Chinmay-C12331">
+  <img src=".github/assets/cyber-grid.svg" alt="Neon 3D cyber grid banner" width="100%" />
+</a>
 
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Real-World AI Applications</h3>
+# CHINMAY J C
 
-<p align="center">
-Passionate about Artificial Intelligence, Full Stack Development and solving real-world problems through technology.
-</p>
+### `AI ENGINEER` · `FULL-STACK DEVELOPER` · `BUILDER`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinmay-choudhari">LinkedIn</a> •
-  <a href="https://updated-protfolio-tan.vercel.app">Portfolio</a> •
+<p>
+  <a href="https://www.linkedin.com/in/chinmay-choudhari">LinkedIn</a> ·
+  <a href="https://updated-protfolio-tan.vercel.app">Portfolio</a> ·
   <a href="mailto:chinmaychoudhari510@gmail.com">Email</a>
 </p>
 
----
+> **Building real-world AI applications with curiosity, clarity, and code.**
 
-# 👨‍💻 About Me
-
-🎓 Computer Science Engineering Student @ Presidency University
-
-🤖 Passionate about Artificial Intelligence, Full Stack Development & Automation
-
-🚀 Currently building AI-powered applications using Python, Gemini API, FastAPI, Gradio, Supabase and Workflow Automation.
-
-🌱 Currently Learning:
-- LLM Applications
-- AI Agents
-- Prompt Engineering
-- Workflow Automation
-- Cloud Deployment
+</div>
 
 ---
 
-# 🚀 Currently Working On
+## ◈ CURRENT ORBIT
 
-- 🧠 LLM Applications using Gemini API
-- 🤖 AI Agents with Memory
-- ⚡ Workflow Automation (Pipedream & n8n)
-- 🧾 Digital Udhaar AI (Coming Soon)
-- ☁️ Cloud Deployment
+I’m a Computer Science Engineering student at **Presidency University**, exploring the space where artificial intelligence, full-stack development, and workflow automation meet.
+
+I learn by building practical projects — from multi-personality assistants and AI audio workflows to **Nagrik**, a government-services portal project.
+
+### Learning next
+
+`LLM Applications` · `AI Agents` · `Prompt Engineering` · `Workflow Automation` · `Cloud Deployment`
 
 ---
 
-# 🛠 Tech Stack
+## ◈ FEATURED BUILD — NAGRIK
 
-<p align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
+### 🏛️ AI-Powered Government Services Portal
 
+Nagrik is presented as a modern full-stack platform intended to simplify access to government services through a clean interface, authentication, and AI-powered assistance.
+
+<p>
+  <a href="https://nagrik-ecru.vercel.app"><strong>↗ Open live demo</strong></a><br />
+  <a href="https://github.com/Chinmay-C12331/Nagrik"><strong>⌘ View repository</strong></a>
 </p>
 
+</td>
+<td width="42%" valign="top">
+
+**Project stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-173B3F?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-244B73?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
+
+<sub>Project details and implementation status should be verified in the Nagrik repository.</sub>
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 📈 GitHub Stats
+## ◈ PROJECT CONSTELLATION
+
+| Project | What it explores | Status |
+| --- | --- | --- |
+| **Assistant PRO** | A Gemini-powered, multi-personality assistant with Teacher, Friend, Mentor, Student, and Interviewer modes, plus multilingual support | Exploring |
+| **AI Podcast Generator** | Gemini-generated podcast scripts turned into voice audio using Murf AI and workflow automation | Exploring |
+| **Digital Udhaar AI** | A planned credit-management platform for local shop owners, with customer records, balance tracking, reminders, UPI, and reporting | Coming soon |
+| **Portfolio Website** | A personal home for projects, achievements, certifications, and the AI journey | [Visit site](https://updated-protfolio-tan.vercel.app) |
+
+> Details marked **Coming soon** or **Exploring** are plans or project descriptions, not claims of a completed public release.
+
+---
+
+## ◈ TOOLCHAIN MATRIX
+
+<table>
+<tr>
+<td valign="top" width="33%"><strong>Languages</strong><br /><br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="33%"><strong>AI & app building</strong><br /><br />
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat-square&logo=gradio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-173B3F?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-244B73?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="33%"><strong>Build & ship</strong><br /><br />
+
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ BUILDING PRINCIPLE
+
+> *“The best way to learn AI is by building real-world applications that solve real problems.”*
+
+I’m focused on turning ambitious ideas into useful, understandable experiences — one experiment at a time.
+
+---
+
+## ◈ CONNECT TO THE SIGNAL
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-choudhari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://updated-protfolio-tan.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaychoudhari510@gmail.com)
+
+<sub>Profile: <a href="https://github.com/Chinmay-C12331">github.com/Chinmay-C12331</a></sub>
+
+</div>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chinmay-C12331&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-C12331&theme=tokyonight"/>
-
+  <sub>Always learning · always building · always looking for the next useful idea</sub>
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-C12331&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏛️ Nagrik – AI Powered Government Services Portal
-
-A modern full-stack web platform that simplifies access to government services through a clean UI, secure authentication and AI-powered assistance.
-
-**Tech Stack**
-
-- Next.js
-- Supabase
-- PostgreSQL
-- Vercel
-
-🔗 GitHub:
-https://github.com/Chinmay-C12331/Nagrik
-
-🌍 Live Demo:
-https://nagrik-ecru.vercel.app
-
----
-
-## 🤖 Assistant PRO
-
-A multi-personality AI assistant built using Gemini API and Gradio.
-
-### Features
-
-- Teacher Mode
-- Friend Mode
-- Mentor Mode
-- Student Mode
-- Interviewer Mode
-- Multi-language Support
-- Gemini Powered Responses
-
-**Tech Stack**
-
-- Python
-- Gemini API
-- Gradio
-
-🌍 Live Demo:
-Coming Soon
-
----
-
-## 🎙 AI Podcast Generator
-
-Generates podcast scripts using Gemini AI and converts them into realistic voice audio using Murf AI through workflow automation.
-
-**Tech Stack**
-
-- Gemini API
-- Murf AI
-- Workflow Automation
-
----
-
-## 🧾 Digital Udhaar AI (Coming Soon)
-
-An AI-powered digital credit management platform for local shop owners.
-
-### Planned Features
-
-- Customer Management
-- Pending Balance Tracking
-- AI Insights
-- Automated Payment Reminders
-- UPI Integration
-- Dashboard & Reports
-
-**Tech Stack**
-
-- React
-- FastAPI
-- Supabase
-- Gemini API
-- Automation
-
----
-
-## 🌐 Portfolio Website
-
-My personal portfolio showcasing projects, achievements, certifications and AI journey.
-
-🌍 Live Website
-
-https://updated-protfolio-tan.vercel.app
-
----
-
-# 💡 Philosophy
-
-> *"I believe the best way to learn AI is by building real-world applications that solve real problems."*
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/chinmay-choudhari">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chinmaychoudhari510@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://updated-protfolio-tan.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chinmay-C12331&label=Profile%20Views&color=blueviolet&style=flat"/>
-
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
