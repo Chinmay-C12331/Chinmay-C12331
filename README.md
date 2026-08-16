@@ -18,6 +18,14 @@
 
 </div>
 
+<div align="center">
+
+### [↗ Open the interactive 3D profile page](https://chinmay-c12331.github.io/Chinmay-C12331/)
+
+`Drag to rotate the tech constellation` · `Hover nodes for details`
+
+</div>
+
 ---
 
 ## ◈ CURRENT ORBIT
