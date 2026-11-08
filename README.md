@@ -80,7 +80,7 @@ Nagrik is presented as a modern full-stack platform intended to simplify access 
 | **Assistant PRO** | A Gemini-powered, multi-personality assistant with Teacher, Friend, Mentor, Student, and Interviewer modes, plus multilingual support | Exploring |
 | **AI Podcast Generator** | Gemini-generated podcast scripts turned into voice audio using Murf AI and workflow automation | Exploring |
 | **Digital Udhaar AI** | A planned credit-management platform for local shop owners, with customer records, balance tracking, reminders, UPI, and reporting | Coming soon |
-| **Portfolio Website** | A personal home for projects, achievements, certifications, and the AI journey | [Visit site](https://updated-protfolio-tan.vercel.app) |
+| **Portfolio Website** | A personal home for projects, achievements, certifications, and the AI journey | [Visit site](https://chinmay-jc.vercel.app) |
 
 > Details marked **Coming soon** or **Exploring** are plans or project descriptions, not claims of a completed public release.
 
